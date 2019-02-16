@@ -17,7 +17,7 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/mssql"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 	"github.com/jinzhu/gorm/dialects/postgres"
-	_ "github.com/jinzhu/gorm/dialects/sqlite"
+	_ "github.com/radutopala/gorm/dialects/sqlite"
 	"github.com/jinzhu/now"
 )
 
